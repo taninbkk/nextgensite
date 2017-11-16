@@ -1,1 +1,4 @@
+/wordpress/
+wp-config.php
+wp-config2.php
 nginx-wordpress.conf
