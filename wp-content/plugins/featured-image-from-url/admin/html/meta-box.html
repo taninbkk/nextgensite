@@ -1,0 +1,71 @@
+<script><?php include 'js/meta-box.js' ?></script>
+
+<!-- show alt field, image and link if URL was already provided -->
+
+<input id="fifu_input_alt" 
+       type="text" 
+       name="fifu_input_alt" 
+       placeholder="alt attribute (optional)" 
+       value="<?php echo $alt; ?>" 
+       style="<?php echo $width, $margin, $show_alt ?>" />
+
+<div id="fifu_image"
+     style="<?php echo $height, $margin, $show_image ?> 
+     background:url('<?php echo $url; ?>') no-repeat center center; 
+     background-size:cover;" >
+</div>
+
+<input id="fifu_input_url" 
+       type="text" 
+       name="fifu_input_url" 
+       placeholder="URL" 
+       value="<?php echo $url; ?>"
+       style="<?php echo $width, $margin ?>" />
+
+<p/>
+<center>
+    <a id="fifu_link" 
+       href="#" 
+       onClick="removeImage();" 
+       style="<?php echo $show_link ?>" >remove external featured image</a>
+</center>
+
+<!-- show preview button if URL was not provided yet -->
+
+<a id="fifu_button" 
+   class="button" 
+   onClick="previewImage();" 
+   style="<?php echo $align, $margin, $show_button ?>" >Preview</a>
+
+<a id="sirv-add-featured-image"
+   active="<?php echo $is_sirv_active; ?>"
+   data-input-anchor="#fifu_input_url"
+   href="#"
+   class="button sirv-add-image-modal-click"
+   title="Add image from Sirv"
+   style="<?php echo $show_sirv?>">Choose Sirv image</a>
+
+
+<div style="<?php echo $show_news?>">
+    <br>
+    <hr>
+    <p style="font-size: 12px; padding: 5px; border-left: 6px solid orange; color: black;
+       background-color: #eee; border-radius: 15px 50px;">new support email: support@featuredimagefromurl.com</p>
+    <p style="font-size: 12px; padding: 5px; border-left: 6px solid #fe0072; color: black;
+       background-color: #eee; border-radius: 15px 50px;">new size for external thumbnail feature: 1600px on longest one</p>
+    <p style="font-size: 12px; padding: 5px; border-left: 6px solid #0073aa; color: black;
+       background-color: #eee; border-radius: 15px 50px;">premium version supports videos from Vimeo now</p>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <th>premium live preview:</th>
+                    <th><a href="http://blog.featuredimagefromurl.com/">blog
+                        </a></th>
+                    <th><a href="http://shop.featuredimagefromurl.com/">shop
+                        </a></th>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+</div>

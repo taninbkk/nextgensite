@@ -1,0 +1,205 @@
+== Changelog ==
+= Theme Name NovelLite=
+= Version: 1.5.2 =
+1. Style issue fixed.
+= Version: 1.5.1 =
+1. Header layout option added.
+2. Page layout option.
+3. Theme color option added.
+4. Header menu color option added.
+5. Page header background image added.
+6. Page background color and images option added.
+7. Section ordering option removed.
+8. Improved slider section added three slides, slider speed, overlay color, background parallax effect.
+9. All section background color, background images, background overlay color and parallax on/off option added.
+10. Section main heading , subheading color, text color added.
+11. Footer background and copyright background color added.
+12. Style Improved.
+13. Section hide option added.
+14. Six more style added for slider button.
+15. Custom button option for last menu item added.
+16. Fixed header on/off option added.
+17. Homepage animation on/off option added.
+18. Back to Top button on/off option added.
+19. Testimonial slide increased. 
+20. Testimonial slider speed option added.
+21. Change number of post for homepage opton added.
+22. Change read more text in homepage blog section option added.
+
+= Version: 1.5.0 =
+1. Style Improved.
+
+= Version: 1.4.9 =
+1. LeadForm css Improved.
+
+= Version: 1.4.8 =
+1.Admin css Improved.
+
+= Version: 1.4.7 =
+1.Woocommerce pages Style Improved.
+
+= Version: 1.4.6 =
+1. Logo issue fixed.
+
+= Version: 1.4.5 =
+1. Use default custom css and bug fixed.
+2. Custom logo WP 4.7+ compatible.
+
+= Version: 1.4.4 =
+1. Selective refresh add.
+
+= Version: 1.4.3 =
+1. mobile function added for child theme.
+
+= Version: 1.4.2 =
+1. Improved responsiveness.
+
+= Version: 1.4.1 =
+1. Improved style Bug.
+
+= Version: 1.4.0 =
+1. Improved style.
+
+= Version: 1.3.9 =
+1. Blog heading fix.
+
+= Version: 1.3.8 =
+1. php error issue fix.
+
+= Version: 1.3.7 =
+1. Translation improved.
+2. jQuery error removed.
+3. frontpage demo content removed.
+4. index.php use for blog page.
+ 
+
+= Version: 1.3.6 =
+1. error issue fixed.
+
+= Version: 1.3.5 =
+1. All escaping text use.
+2. All function  added prefix.
+3. Unused code removed.
+4. WordPress default css added.
+
+= Version: 1.3.4 =
+1. Pricing table removed due to WordPress rules (pricing plugin integrated instead).
+
+= Version: 1.3.3 =
+1. 404 page and seacrh page issue and design fixed.
+2. js console bug fixed.
+3. color issue fixed.
+4. page heading issue fixed. 
+
+= Version: 1.3.2 =
+1. Lead form builder notification activated.
+2. Map feature added for child theme.
+
+= Version: 1.3.1 =
+1. Lead form builder integrated.
+
+= Version: 1.3 =
+1. WordPress latest title-tag updated.
+2. Latest tags updated.
+
+= Version: 1.2.9 =
+1. WooCommerce Bug Fixed
+
+= Version: 1.2.8 =
+1. Animation added.
+
+= Theme Name NovelLite=
+= Version: 1.2.7 =
+1. Title/Tag Issue Fixed
+
+= Version: 1.2.6 =
+1. Slider Issue Fixed
+2. Menu Issue Fixed
+3. Comment and Search 'Image Not Found' Fixed.
+
+= Version: 1.2.4 =
+1. Pricing Improved
+
+= Version: 1.2.3 =
+1. Pricing Section Added
+
+= Version: 1.2.2 =
+1. Some Bug Fixed.
+
+= Version: 1.2.1 =
+1. Contact form bug fixed.
+
+= Version: 1.2.0 =
+1. Move to top improved.
+
+= Version: 1.1.9 =
+1. Text domain fixed.
+
+= Version: 1.1.8 =
+1. Receiver email option added in customizer.
+2. WooCommerce column issue fix.
+3. Testimonial slider autoplay.
+4. Styling improved.
+ 
+
+= Version: 1.1.7 = 
+1. Menu styling fixed.
+2. Language issue fixed.
+3. Slider overlay issue fixed.
+
+= Version: 1.1.6 = 
+1. Smooth scrolling feature added.
+2. Customize panel bug fixed.
+
+
+= Version: 1.1.5 = 
+1. blog page title and page title issue fixed.
+2. slider issue fixed
+
+= Version: 1.1.4 = 
+1. Styling issue fixed
+2. Double title issue fixed.
+3. Background image/color issue fixed.
+
+= Version: 1.1.3 = 
+1. Modification Done
+
+= Version: 1.1.2 = 
+1. Changes Done
+
+= Version: 1.1.1 = 
+1. Image size function removed.
+
+
+= Version: 1.1.0 = 
+1. Some bug fixed.
+2. License added.
+
+= Version: 1.0.9 = 
+1. Some bug fixed.
+
+= Version: 1.0.8 = 
+1. Menu bug fixed.
+
+= Version: 1.0.7 = 
+1. Theme Option removed.
+2. wordpress Customizer added 
+
+= Version: 1.0.6 = 
+1. Error Fixed
+
+= Version: 1.0.4 = 
+1. Text Domain issue resolved
+
+= Theme Name NovelLite=
+= Version: 1.0.3 = 
+1. error issue resolved.
+
+= Theme Name NovelLite=
+= Version: 1.0.2 = 
+1. @media updated.
+
+= Version: 1.0.1 = 
+1. Carousal updated.
+
+= Version: 1.0.0 =

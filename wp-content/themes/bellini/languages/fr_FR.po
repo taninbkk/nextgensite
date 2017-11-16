@@ -1,0 +1,1878 @@
+# Translation of Themes - Bellini in French (France)
+# This file is distributed under the same license as the Themes - Bellini package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-10 08:02:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Bellini\n"
+
+#. Description of the plugin/theme
+msgid "Bellini is the perfect theme for creating a eCommerce store or shop. Responsive & flexible layout built with Bootstrap. Customize anything like Google Fonts, Color, Layout, logo upload, full-screen slider, header image and much more.Built with SEO in mind and has Structured Data (Schema) implemented. If you are looking for a beautiful theme with out of the box SEO compatibility & responsiveness, look no further! Check out the live demo at http://demo.atlantisthemes.com/front-page/"
+msgstr "Bellini est le thème parfait pour votre boutique WooCommerce. Mise en page responsive et flexible construite avec Bootstrap. Personnalisez tout : polices Google, couleur, mise en page, logo, diaporama en pleine largeur, image d’en-tête et bien plus encore. Il est optimisé pour le SEO et a des données structurées (Schema) implémentées. Si vous rechercher un beau thème avec une compatibilité SEO et responsive, vous l’avez trouvé ! Découvrez notre démonstration sur http://demo.atlantisthemes.com/front-page/"
+
+#. Theme Name of the plugin/theme
+msgid "Bellini"
+msgstr "Bellini"
+
+#: inc/customize/bellini-customizer-choices.php:70
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/customize/bellini-customizer-choices.php:58
+msgid "Ravelry"
+msgstr "Ravelry"
+
+#: inc/customize/bellini-customizer-choices.php:57
+msgid "Quora"
+msgstr "Quora"
+
+#: inc/customize/bellini-customizer-choices.php:51
+msgid "Meetup"
+msgstr "Meetup"
+
+#: inc/customize/bellini-customizer-choices.php:30
+msgid "Etsy"
+msgstr "Etsy"
+
+#: functions.php:83
+msgid "Sidebar Blog Right"
+msgstr "Barre de blog à droite"
+
+#: functions.php:73
+msgid "Sidebar Left"
+msgstr "Barre à gauche"
+
+#: functions.php:63
+msgid "Sidebar Right"
+msgstr "Barre à droite"
+
+#: inc/customize/settings-integrations.php:430
+msgid "Shop Page Title"
+msgstr "Titre de page boutique"
+
+#: inc/customize/settings-integrations.php:384
+msgid "Sidebar Position"
+msgstr "Position de la barre"
+
+#: inc/customize/settings-integrations.php:347
+msgid "WooCommerce Sidebar"
+msgstr "Barre WooCommerce"
+
+#: inc/customize/settings-integrations.php:320
+msgid "Single Product Pages"
+msgstr "Pages de produit"
+
+#: inc/customize/settings-integrations.php:302
+msgid "Add To Button - Color"
+msgstr "Ajout au panier - Couleur"
+
+#: inc/customize/settings-integrations.php:283
+msgid "Add To Card Button - Text Color"
+msgstr "Bouton d’ajout au panier - Couleur de texte"
+
+#: inc/customize/settings-integrations.php:205
+msgid "Single Product Description Font Size"
+msgstr "Taille de police de description de produit"
+
+#: inc/customize/settings-integrations.php:190
+msgid "Single Product Title Font Size"
+msgstr "Taille de police de titre de produit"
+
+#: inc/customize/settings-integrations.php:174
+msgid "Product Price Font Size"
+msgstr "Taille de police de prix de produit"
+
+#: inc/customize/settings-integrations.php:159
+msgid "Product Title Font Size"
+msgstr "Taille de police de titre de produit"
+
+#: inc/customize/settings-integrations.php:114
+msgid "Shop Page - Sorting Section"
+msgstr "Page boutique - Section de tri"
+
+#: inc/customize/settings-integrations.php:71
+msgid "Shop Page - Products per page"
+msgstr "Page boutique - Produits par page"
+
+#: inc/customize/settings-integrations.php:49
+msgid "Shop Page"
+msgstr "Page boutique"
+
+#: inc/customize/settings-color.php:93
+msgid "Footer Background"
+msgstr "Arrière plan de pied"
+
+#: inc/customize/settings-color.php:73
+msgid "Widget Background"
+msgstr "Arrière plan de widget"
+
+#: inc/customize/settings-color.php:53
+msgid "Header Background"
+msgstr "Arrière plan d'en-tête"
+
+#: inc/customize/settings-bellini-pro.php:6
+msgid "Post & Page Slider."
+msgstr "Diaporama de page / article"
+
+#: inc/customize/settings-front.php:81
+msgid "Re-order Sections?"
+msgstr "Organiser les sections ?"
+
+#: inc/customize/settings-bellini-pro.php:69
+msgid "Customize without limits"
+msgstr "Personnalisez sans limite"
+
+#: inc/customize/settings-bellini-pro.php:53
+msgid "Hey, you are using Basic version. Unlock More possibilities and features."
+msgstr "Vous utilisez une version basique. Débloquez plus de fonctionnalités."
+
+#: inc/customize/settings-bellini-pro.php:37
+msgid "Go Premium"
+msgstr "Passez en premium"
+
+#: inc/customize/settings-bellini-pro.php:30
+msgid "</br><a target=\"_blank\" href=\"%s\" class=\"lite__pro--customizer\">Upgrade To Pro</a>"
+msgstr "</br><a target=\"_blank\" href=\"%s\" class=\"lite__pro--customizer\">Mettez à niveau en Pro</a>"
+
+#: inc/customize/settings-bellini-pro.php:18
+msgid ""
+"You are missing out on</br>\n"
+"<ul class=\"bellini__pro--features\">\n"
+"<li>MailChimp Newsletter Inegration</li>\n"
+"<li>Google Map Section</li>\n"
+"<li>More Frontpage Sections</li>\n"
+"<li>Better Typography</li>\n"
+"<li>Premium Email Support</li>\n"
+"<li>Advanced Customization</li>\n"
+"<li>Full WooCommerce Compatibility</li>\n"
+"<li>Shortcodes &amp; Widgets</li>\n"
+"</ul><a target=\"_blank\" href=\"%s\">Upgrade To Pro</a> to unlock all features."
+msgstr ""
+"Voici ce que vous manquez</br>\n"
+"<ul class=\"bellini__pro--features\">\n"
+"<li>Intégration de newsletter MailChimp</li>\n"
+"<li>Section Google Map</li>\n"
+"<li>Plus de sections de page d’accueil</li>\n"
+"<li>Meilleure typographie</li>\n"
+"<li>Support Premium par e-mail</li>\n"
+"<li>Personnalisation advancée</li>\n"
+"<li>Compatibilité WooCommerce</li>\n"
+"<li>Codes courts &amp; Widgets</li>\n"
+"</ul><a target=\"_blank\" href=\"%s\">Mettez à niveau en Pro</a> pour débloquer toutes les fonctions."
+
+#: inc/structure/bellini-footer.php:22
+msgid "Theme: %1$s by Atlantis Themes"
+msgstr "TThème : %1$s par Atlantis Themes"
+
+#: functions.php:310 inc/customize/settings-front.php:1616
+msgid "Dinosaurs eat man"
+msgstr "Les dinosaures mangent l’homme"
+
+#: functions.php:308 inc/customize/settings-front.php:1553
+msgid "Welcome to Jurassic Park"
+msgstr "Bienvenue à Jurassic Park"
+
+#: functions.php:307 functions.php:309 functions.php:311
+#: inc/customize/settings-front.php:1505 inc/customize/settings-front.php:1569
+#: inc/customize/settings-front.php:1632
+msgid "A worker climbs to the top of the crate. The search lights are trained on the door. The rifleman throw the bolts on their rifles and crack their stun guns, sending arcs of current cracking through the air."
+msgstr "A worker climbs to the top of the crate. The search lights are trained on the door. The rifleman throw the bolts on their rifles and crack their stun guns, sending arcs of current cracking through the air."
+
+#: functions.php:306 inc/customize/settings-front.php:1489
+msgid "Search lights are trained"
+msgstr "La recherche avance"
+
+#: functions.php:282 inc/customize/settings-front.php:1665
+msgid "It is a text field where you can insert any text, HTMl or shortcode."
+msgstr "Ceci est un champ texte où vous pouvez insérer du texte, du HTML ou un code court."
+
+#: functions.php:279 inc/customize/settings-front.php:1455
+msgid "Our Features"
+msgstr "Nos caractéristiques"
+
+#: functions.php:274 inc/customize/settings-front.php:1207
+msgid "Behind the scenes stories"
+msgstr "Dans les coulisses"
+
+#: functions.php:273 inc/customize/settings-front.php:1191
+msgid "Our Stories"
+msgstr "Nos histoires"
+
+#: functions.php:245 inc/customize/settings-front.php:225
+msgid "Best Shop Theme For WordPress"
+msgstr "Le meilleur thème de boutique pour WordPress"
+
+#: functions.php:173
+msgid "Upgrade To Pro"
+msgstr "Mise à niveau vers PRO"
+
+#: inc/structure/bellini-header.php:39
+msgid "Close"
+msgstr "Fermer"
+
+#: inc/customize/settings-integrations.php:328
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/customize/settings-integrations.php:321
+msgid "Applies to Single Product Page"
+msgstr "Appliqué à la page de produit"
+
+#: inc/customize/settings-typography.php:71
+msgid "Font Combinations"
+msgstr "Combinaisons de police"
+
+#: inc/customize/settings-position.php:418
+msgid "Display the footer widgets in 1, 2, 3 or 4 columns"
+msgstr "Afficher les widgets du pied en 1, 2, 3 ou 4 colonnes"
+
+#: inc/customize/settings-position.php:417
+msgid "Column - Footer Widgets"
+msgstr "Colonne - Widgets de pied"
+
+#: inc/customize/settings-position.php:282
+msgid "Alignment - Header Menu"
+msgstr "Alignement - Éléments d’en-tête"
+
+#: inc/customize/settings-position.php:258
+msgid "Type - Header Menu"
+msgstr "Type - Menu d'en-tête"
+
+#: inc/customize/settings-position.php:240
+msgid "Header Menu"
+msgstr "Menu d'en-tête"
+
+#: inc/customize/settings-position.php:214
+msgid "Type - Header"
+msgstr "Type - En-tête"
+
+#: inc/customize/settings-position.php:163
+msgid "Layout - Header Components"
+msgstr "Mise en page - Composants d’en-tête"
+
+#: inc/customize/settings-position.php:363
+msgid "Alignment - Page Title"
+msgstr "Alignement - Titre de page"
+
+#: inc/customize/settings-integrations.php:88
+msgid "Shop Page - Product Columns "
+msgstr "Page boutique - Colonnes de produit"
+
+#: inc/customize/settings-front.php:1674
+msgid "You can insert HTML, shortcode in this field."
+msgstr "Vous pouvez insérer du HTML ou un code court dans ce champ."
+
+#: inc/customize/settings-front.php:1446
+msgid "Block Section - Heading"
+msgstr "Section de bloc - En-tête"
+
+#: inc/customize/settings-front.php:1360
+msgid "Block - Style & Layout"
+msgstr "Bloc - Style et mise en page"
+
+#: inc/customize/settings-front.php:1279
+msgid "this layout settings will be aplicable to frontpage blog posts."
+msgstr "ces réglages de mise en page seront applicable aux article de blog pour l’accueil"
+
+#: inc/customize/settings-front.php:1278
+msgid "Blog Posts - Layout"
+msgstr "Articles de blog - Mise en page"
+
+#: inc/customize/settings-front.php:1182
+msgid "Blog Section - Heading"
+msgstr "Section de bloc - En-tête"
+
+#: inc/customize/settings-front.php:1121
+msgid "Featured Products - Style & Layout"
+msgstr "Produits mis en avant - Style et mise en page"
+
+#: inc/customize/settings-front.php:1102
+msgid "Number of Featured Products to display"
+msgstr "Nombre de produits mis en avant à afficher"
+
+#: inc/customize/settings-front.php:1054
+msgid "Featured Products - Heading"
+msgstr "Produits mis en avant - En-tête"
+
+#: inc/customize/settings-front.php:966
+msgid "Display * Products in a 1, 2, 3 or 4 columns"
+msgstr "Afficher les produits en 1, 2, 3 ou 4 colonnes"
+
+#: inc/customize/settings-front.php:965
+msgid "Column - Products "
+msgstr "Colonne - Produits"
+
+#: inc/customize/settings-front.php:942
+msgid "Layout - Products"
+msgstr "Mise en page - Produits"
+
+#: inc/customize/settings-front.php:855
+msgid "Product Order"
+msgstr "Ordre de produit"
+
+#: inc/customize/settings-front.php:714
+msgid "Product Section - Heading"
+msgstr "Section de produit - En-tête"
+
+#: inc/customize/settings-front.php:650 inc/customize/settings-front.php:991
+msgid "Position - Section Heading"
+msgstr "Position - En-tête de section"
+
+#: inc/customize/settings-front.php:625
+msgid "Display Category in 1, 2, 3 or 4 Column "
+msgstr "Afficher les catégories en 1, 2, 3 ou 4 colonnes"
+
+#: inc/customize/settings-front.php:624
+msgid "Column - Category "
+msgstr "Colonne - Catégorie"
+
+#: inc/customize/settings-front.php:601
+msgid "Layout - Category"
+msgstr "Mise en page - Catégorie"
+
+#: inc/customize/settings-front.php:536
+msgid "Product Category - Heading"
+msgstr "Catégorie de produit - En-tête"
+
+#: inc/customize/settings-front.php:440
+msgid "Slider - Mobile Settings"
+msgstr "Diaporama - Réglages mobile"
+
+#: inc/customize/settings-front.php:357
+msgid "Slider - Color Settings"
+msgstr "Diaporama - Réglages de couleur"
+
+#: inc/customize/settings-front.php:267
+msgid "Slider - Buttons"
+msgstr "Diaporama - Boutons"
+
+#: inc/customize/settings-front.php:216
+msgid "Slider - Content"
+msgstr "Diaporama - Contenu"
+
+#: inc/customize/settings-front.php:180
+msgid "Slider - Image"
+msgstr "Diaporama - Image"
+
+#: inc/customize/settings-front.php:161
+msgid "Slider will be visible on all pages except Posts."
+msgstr "Le diaporama sera visible sur toutes les pages sauf les articles."
+
+#: inc/customize/settings-color.php:300
+msgid "Links"
+msgstr "Liens"
+
+#: inc/customize/settings-color.php:241 inc/customize/settings-color.php:301
+msgid "applies to all general buttons, search, comments button, "
+msgstr "appliqué à tout les boutons généraux, recherche et commentaires,"
+
+#: inc/customize/settings-color.php:240
+msgid "Buttons"
+msgstr "Boutons"
+
+#: inc/customize/settings-front.php:22
+msgid "Blocks"
+msgstr "Blocs"
+
+#: inc/customize/settings-front.php:13
+msgid "Slider"
+msgstr "Diaporama"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Page d’accueil"
+
+#: template-parts/content-none.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nous ne trouvons pas ce que vous cherchez. La recherche pourrait vous être utile"
+
+#: template-parts/content-none.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche."
+
+#: template-parts/content-none.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-lb-5.php:26 template-parts/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: page.php:50 template-parts/content-page.php:36
+#: template-parts/content-single--l3.php:40
+msgid "Pages:"
+msgstr "Pages :"
+
+#. translators: %s: Name of current post
+#: inc/structure/extras.php:141 page.php:26 template-parts/content-page.php:20
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: inc/structure/extras.php:123
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: inc/structure/extras.php:123
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: inc/structure/extras.php:123
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/structure/extras.php:112
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/structure/extras.php:81 inc/structure/extras.php:96
+msgid " "
+msgstr " "
+
+#: inc/structure/extras.php:84 inc/structure/extras.php:98
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/structure/bellini-header.php:135
+msgid "My Bag "
+msgstr "Mon panier"
+
+#: inc/structure/bellini-header.php:122
+msgid "Your Cart "
+msgstr "Votre panier"
+
+#: inc/structure/bellini-header.php:102
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d élément"
+msgstr[1] "%d éléments"
+
+#: inc/structure/bellini-header.php:100
+msgid "View your shopping cart"
+msgstr "Voir votre panier"
+
+#: inc/structure/bellini-header.php:67 inc/structure/bellini-header.php:75
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/structure/bellini-front.php:297
+msgid "No Products Found"
+msgstr "Aucun produit trouvé"
+
+#: inc/structure/bellini-front.php:207
+msgid "To Re-order or Hide this section install \"Homepage Control\" plugin."
+msgstr "Pour réorganiser ou masquer cette section, installez l’extension \"Homepage Control\"."
+
+#: inc/structure/bellini-front.php:206
+msgid "Ready to set your first Featured Product? Head over to <a href=\"%1$s\">Products</a> and Click on the Star."
+msgstr "Prêt à configurer votre premier produit mis en avant ? Allez dans <a href=\"%1$s\">Produits</a> et cliquez sur l’étoile."
+
+#: inc/structure/bellini-front.php:205
+msgid "This section will display your Featured WooCommerce Products."
+msgstr "Cette section affichera vos produits WooCommerce mis en avant."
+
+#: inc/structure/bellini-front.php:203
+msgid "No Featured Products Set! "
+msgstr "Aucun produit mis en avant défini !"
+
+#: inc/structure/bellini-front.php:75
+msgid "No Slider Shortcode Found! "
+msgstr "Aucun code court de diaporama trouvé !"
+
+#: inc/structure/bellini-footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: inc/structure/bellini-footer.php:17
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: inc/integration/bellini-woocommerce-functions.php:132
+msgid "Sort by:"
+msgstr "Trier par :"
+
+#: inc/customizer.php:129
+msgid "Favicon"
+msgstr "Favicon"
+
+#: inc/customizer.php:113
+msgid "Logo & Title"
+msgstr "Logo et titre"
+
+#: inc/customizer.php:98
+msgid "Integrations"
+msgstr "Intégrations"
+
+#: inc/customizer.php:91
+msgid "Set default content link text, image or social icons"
+msgstr "Définissez le contenu de lien, les images ou les icônes sociales par défaut"
+
+#: inc/customizer.php:90
+msgid "Other Options"
+msgstr "Autres options"
+
+#: inc/customizer.php:83 inc/customizer.php:99
+msgid "Check 3rd Party Software & App Settings"
+msgstr "Vérifier les réglages des autres extensions"
+
+#: inc/customizer.php:73
+msgid "Change layout or shape and postion of components."
+msgstr "Changer la mise en forme, la forme ou la position des composants."
+
+#: inc/customizer.php:64
+msgid "Customize your sites color and font"
+msgstr "Personnalisez vos couleurs de site et de police"
+
+#: inc/customizer.php:63
+msgid "Colors & Typography"
+msgstr "Couleurs et typographie"
+
+#: inc/customizer.php:56
+msgid "Your frontpage elements"
+msgstr "Vos éléments de page d’accueil"
+
+#: inc/customizer.php:55
+msgid "Frontpage"
+msgstr "Page d’accueil"
+
+#: inc/customizer.php:45
+msgid "Select Your Frontpage"
+msgstr "Sélectionnez votre page d’accueil"
+
+#: inc/customizer.php:36
+msgid "Website Background"
+msgstr "Arrière plan du site"
+
+#: inc/customizer.php:22
+msgid "Upload a logo image to used in the place of your site title."
+msgstr "Envoyez une image de logo à utiliser à la place du titre de votre site."
+
+#: inc/customizer.php:21
+msgid "Logo Image"
+msgstr "Image de logo"
+
+#: inc/customizer.php:16
+msgid "Site Title & Tagline"
+msgstr "Titre de site et slogan"
+
+#: inc/customizer.php:14
+msgid "Brand Name"
+msgstr "Nom de marque"
+
+#: inc/customize/settings-typography.php:208
+msgid "Title Alignment - Widgets"
+msgstr "Alignement de titre - Widgets"
+
+#: inc/customize/settings-typography.php:191
+msgid "Capitalize"
+msgstr "Capitales"
+
+#: inc/customize/settings-typography.php:190
+msgid "lowercase"
+msgstr "Minuscules"
+
+#: inc/customize/settings-typography.php:189
+msgid "UPPERCASE"
+msgstr "Majuscules"
+
+#: inc/customize/settings-typography.php:181
+msgid "Title Capitalization"
+msgstr "Capitalisation de titre"
+
+#: inc/customize/settings-typography.php:162
+msgid "Font Style"
+msgstr "Style de police"
+
+#: inc/customize/settings-typography.php:142
+msgid "Menu - Font Size"
+msgstr "Menu - Taille de police"
+
+#: inc/customize/settings-typography.php:126
+msgid "Title - Font Size"
+msgstr "Titre - Taille de police"
+
+#: inc/customize/settings-typography.php:110
+msgid "Body - Font Size"
+msgstr "Corps - Taille de police"
+
+#: inc/customize/settings-typography.php:93
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: inc/customize/settings-typography.php:72
+msgid "<b>First Font</b> - All the titles or heading text</br><b>Second Font</b> - Site wide body text"
+msgstr "<b>Première police</b> - Tous les titres ou textes d’en-tête</br><b>Seconde police</b> - Tout le texte de corps du site"
+
+#: inc/customize/settings-typography.php:52
+msgid "Applies to site title"
+msgstr "Appliqué au titre du site"
+
+#: inc/customize/settings-typography.php:51
+msgid "Logo Font"
+msgstr "Police de logo"
+
+#: inc/customize/settings-typography.php:32
+msgid "Choose Fonts"
+msgstr "Choix des polices"
+
+#: inc/customize/settings-position.php:481
+msgid "WooCommerce Breadcrumb"
+msgstr "WooCommerce Breadcrumb"
+
+#: inc/customize/settings-position.php:480
+msgid "Yoast Breadcrumb"
+msgstr "Yoast Breadcrumb"
+
+#: inc/customize/settings-position.php:479
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: inc/customize/settings-position.php:473
+msgid "Before selecting Breadcrumb NavXT, make sure you have <a target=\"_blank\" href=\"%s\">Breadcrumb NavXT</a> plugin installed."
+msgstr "Avant de sélectionner Breadcrumb NavXT, assurez vous d’avoir installé <a target=\"_blank\" href=\"%s\">Breadcrumb NavXT</a>."
+
+#: inc/customize/settings-position.php:472
+msgid "Breadcrumb Type"
+msgstr "Type de fil d'Ariane"
+
+#: inc/customize/settings-position.php:456
+msgid "WP PageNavi"
+msgstr "WP PageNavi"
+
+#: inc/customize/settings-position.php:455
+msgid "Numeric 1 2 3"
+msgstr "Numérique 1 2 3"
+
+#: inc/customize/settings-position.php:454
+msgid "Next / Previous"
+msgstr "Suivant / Précédent"
+
+#: inc/customize/settings-position.php:448
+msgid "Before selecting WP PageNavi, make sure you have <a target=\"_blank\" href=\"%s\">WP PageNavi</a> installed."
+msgstr "Avant de sélectionner WP PageNavi, assurez vous d’avoir installé <a target=\"_blank\" href=\"%s\">WP PageNavi</a> ."
+
+#: inc/customize/settings-position.php:447
+msgid "Pagination Type"
+msgstr "Type de pagination"
+
+#: inc/customize/settings-position.php:393
+msgid "Footer Layout"
+msgstr "Mise en page de pied"
+
+#: inc/customize/settings-position.php:336
+msgid "Single Post Layout"
+msgstr "Mise en page d’article"
+
+#: inc/customize/settings-position.php:313
+msgid "Applies to Index, Blog page template, category and archive post list."
+msgstr "Appliqué à l’index, le modèle de page de blog, la catégorie et l’archive d’article."
+
+#: inc/customize/settings-position.php:265
+msgid "Hamburger"
+msgstr "Hamburger"
+
+#: inc/customize/settings-position.php:264
+#: inc/customize/settings-typography.php:188
+msgid "Normal"
+msgstr "Normale"
+
+#: inc/customize/settings-position.php:221
+msgid "Transparent"
+msgstr "Transparent"
+
+#: inc/customize/settings-position.php:220
+msgid "General"
+msgstr "Général"
+
+#: inc/customize/settings-position.php:197
+msgid "Social Icons"
+msgstr "Icônes sociales"
+
+#: inc/customize/settings-position.php:196
+msgid "Cart & Search"
+msgstr "Panier et recherche"
+
+#: inc/customize/settings-position.php:190
+msgid "Before selecting Cart & Search, make sure you have WooCommerce installed."
+msgstr "Avant de sélectionner Panier et recherche, assurez vous que WooCommerce est installé."
+
+#: inc/customize/settings-position.php:189
+msgid "Other Header Items"
+msgstr "Autres éléments d’en-tête"
+
+#: inc/customize/settings-position.php:171
+msgid "Logo + Menu + Other Header Item"
+msgstr "Logo + menu + autre élément d’en-tête"
+
+#: inc/customize/settings-position.php:170
+msgid "Menu + Logo"
+msgstr "Menu + logo"
+
+#: inc/customize/settings-position.php:169
+msgid "Logo + Menu"
+msgstr "Logo + menu"
+
+#: inc/customize/settings-position.php:144
+msgid "Header Section Layout"
+msgstr "Mise en page de section d’en-tête"
+
+#: inc/customize/settings-position.php:123
+msgid "Write your width in px. Example: 1200px. Your content will be confined within this area."
+msgstr "Saisissez votre largeur en px. Exemple : 1200px. Votre contenu sera confiné dans cette zone."
+
+#: inc/customize/settings-position.php:122
+msgid "Canvas Width"
+msgstr "Largeur du canevas"
+
+#: inc/customize/settings-position.php:98
+msgid "From Box to Full Width"
+msgstr "Encadrée ou en pleine largeur"
+
+#: inc/customize/settings-position.php:97
+msgid "Website Orientation"
+msgstr "Orientation du site"
+
+#: inc/customize/settings-position.php:77
+msgid "Website Width"
+msgstr "Largeur du site"
+
+#: inc/customize/settings-position.php:57
+msgid "Layout - Others"
+msgstr "Mise en page - Autres"
+
+#: inc/customize/settings-position.php:48
+msgid "Layout - Footer"
+msgstr "Mise en page - Pied"
+
+#: inc/customize/settings-position.php:39
+msgid "Layout - Page"
+msgstr "Mise en page - Page"
+
+#: inc/customize/settings-position.php:30
+msgid "Layout - Posts"
+msgstr "Mise en page - Articles"
+
+#: inc/customize/settings-position.php:21
+msgid "Layout - Header"
+msgstr "Mise en page - En-tête"
+
+#: inc/customize/settings-position.php:12
+msgid "Layout - General"
+msgstr "Mise en page - Général"
+
+#: inc/customize/settings-integrations.php:438
+#: inc/customize/settings-position.php:290
+#: inc/customize/settings-position.php:371
+#: inc/customize/settings-typography.php:216
+msgid "Center"
+msgstr "Centre"
+
+#: inc/customize/settings-integrations.php:411
+msgid "Position"
+msgstr "Position"
+
+#: inc/customize/settings-integrations.php:365
+msgid "Show WooCommerce Sidebar"
+msgstr "Afficher la barre WooCommerce"
+
+#: inc/customize/settings-integrations.php:264
+msgid "Product Title - Color"
+msgstr "Titre de produit - Couleur"
+
+#: inc/customize/settings-integrations.php:245
+msgid "Product Card - Background Color"
+msgstr "Carte de produit - Couleur d’arrière plan"
+
+#: inc/customize/settings-integrations.php:225
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/customize/settings-integrations.php:142
+#: inc/customize/settings-typography.php:94
+msgid "If you want to set your font size to 26px, just write 26"
+msgstr "Si vous voulez définir votre taille de police sur 26, saisissez juste 26"
+
+#: inc/customize/settings-integrations.php:141
+#: inc/customize/settings-typography.php:6
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/customize/settings-integrations.php:122
+#: inc/customize/settings-position.php:399
+msgid "Layout 2"
+msgstr "Mise en page 2"
+
+#: inc/customize/settings-integrations.php:115
+msgid "Product sorting, pagination layouts"
+msgstr "Tri de produit, mises en page de pagination"
+
+#: inc/customize/settings-integrations.php:98
+msgid "4"
+msgstr "4"
+
+#: inc/customize/settings-integrations.php:97
+msgid "3"
+msgstr "3"
+
+#: inc/customize/settings-integrations.php:96
+msgid "2"
+msgstr "2"
+
+#: inc/customize/settings-integrations.php:95
+msgid "1"
+msgstr "1"
+
+#: inc/customize/settings-integrations.php:89
+msgid "Product items of Shop & Archive pages"
+msgstr "Éléments de produit de boutique et des pages d’archives"
+
+#: inc/customize/settings-integrations.php:50
+msgid "Applies to Shop & Archive pages"
+msgstr "Mise en page pour la boutique et les pages d’archive"
+
+#: inc/customize/settings-integrations.php:31 inc/customizer.php:72
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/customize/settings-integrations.php:11
+msgid "WooCommerce"
+msgstr "Woocommerce"
+
+#: inc/customize/settings-front.php:1745
+msgid "How To Re-order"
+msgstr "Comment réordonner"
+
+#: inc/customize/settings-front.php:1734
+msgid "You will need to have <a target=\"_blank\" href=\"%s\">Homepage Control</a> plugin installed to <b>re-order</b> frontpage elements.</br>After installation go to <b>Appearance -> Homepage Control</b>"
+msgstr "Vous devez avoir installé l’extension <a target=\"_blank\" href=\"%s\">Homepage Control</a> pour <b>organiser</b> les éléments de l’accueil.</br>Après l’installation, allez  dans <b>Apparence -> Homepage Control</b>"
+
+#: inc/customize/settings-front.php:1607
+msgid "Block Three"
+msgstr "Bloc 3"
+
+#: inc/customize/settings-front.php:1544
+msgid "Block Two"
+msgstr "Bloc 2"
+
+#: inc/customize/settings-front.php:1480
+msgid "Block One"
+msgstr "Bloc 1"
+
+#: inc/customize/settings-front.php:1402
+msgid "Display * Blocks in a row "
+msgstr "Afficher * blocs sur une ligne"
+
+#: inc/customize/settings-front.php:1385
+#: inc/customize/settings-position.php:342
+msgid "Layout 3"
+msgstr "Mise en page 3"
+
+#: inc/customize/settings-front.php:1378
+msgid "Block Layout"
+msgstr "Mise en page de bloc"
+
+#: inc/customize/settings-front.php:1320 inc/customize/settings-front.php:1690
+msgid "Section - Color & Image"
+msgstr "Section - Couleur et image"
+
+#: inc/customize/settings-front.php:1305
+#: inc/customize/settings-position.php:320
+msgid "Layout 5"
+msgstr "Mise en page 5"
+
+#: inc/customize/settings-front.php:1298
+#: inc/customize/settings-position.php:312
+msgid "Blog Posts Layout"
+msgstr "Mise en page des articles de blog"
+
+#: inc/customize/settings-front.php:1265
+msgid "Button Link"
+msgstr "Lien de bouton"
+
+#: inc/customize/settings-front.php:1231
+msgid "Blog Section - Call To Action"
+msgstr "Section de blog - Appel à action"
+
+#: inc/customize/settings-front.php:1138
+msgid "Slider Layout"
+msgstr "Mise en page de diaporama"
+
+#: inc/customize/settings-front.php:1014
+msgid "Product Section - Color & Image"
+msgstr "Section de produit - Couleur et image"
+
+#: inc/customize/settings-front.php:924
+msgid "Product Section - Layout"
+msgstr "Section de produit - Mise en page"
+
+#: inc/customize/settings-front.php:911
+msgid "Button URL"
+msgstr "URL de bouton"
+
+#: inc/customize/settings-front.php:877
+msgid "Section - Call To Action"
+msgstr "Section - Appel à action"
+
+#: inc/customize/settings-front.php:862
+msgid "Descending"
+msgstr "Descendant"
+
+#: inc/customize/settings-front.php:861
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: inc/customize/settings-front.php:839
+msgid "Price"
+msgstr "Prix"
+
+#: inc/customize/settings-front.php:838
+msgid "Popularity"
+msgstr "Popularité"
+
+#: inc/customize/settings-front.php:837
+msgid "Rating"
+msgstr "Note"
+
+#: inc/customize/settings-front.php:835
+msgid "Date"
+msgstr "Date"
+
+#: inc/customize/settings-front.php:829
+msgid "Sort Products By"
+msgstr "Trier les produits par"
+
+#: inc/customize/settings-front.php:808
+msgid "Select Category you want to display"
+msgstr "Sélectionnez la catégorie que vous voulez afficher"
+
+#: inc/customize/settings-front.php:807
+msgid "Product Category"
+msgstr "Catégorie de produit"
+
+#: inc/customize/settings-front.php:791
+msgid "All"
+msgstr "Tous"
+
+#: inc/customize/settings-front.php:785 inc/customize/settings-front.php:1107
+msgid "example: 2"
+msgstr "exemple : 2"
+
+#: inc/customize/settings-front.php:780
+msgid "Number of Products to Display"
+msgstr "Nombre de produits à afficher"
+
+#: inc/customize/settings-front.php:762
+msgid "Product Settings"
+msgstr "Réglages de produit"
+
+#: inc/customize/settings-front.php:745 inc/customize/settings-front.php:1084
+#: inc/customize/settings-front.php:1215
+msgid "Section Description"
+msgstr "Description de section"
+
+#: inc/customize/settings-front.php:730 inc/customize/settings-front.php:1069
+#: inc/customize/settings-front.php:1199 inc/customize/settings-front.php:1463
+msgid "Section Title"
+msgstr "Titre de section"
+
+#: inc/customize/settings-front.php:674
+msgid "Product Category - Color & Image"
+msgstr "Catégorie de  produit - Couleur et image"
+
+#: inc/customize/settings-front.php:658 inc/customize/settings-front.php:999
+#: inc/customize/settings-integrations.php:391
+#: inc/customize/settings-integrations.php:437
+#: inc/customize/settings-position.php:289
+#: inc/customize/settings-position.php:370
+#: inc/customize/settings-typography.php:217
+msgid "Right"
+msgstr "Droite"
+
+#: inc/customize/settings-front.php:657 inc/customize/settings-front.php:998
+#: inc/customize/settings-integrations.php:390
+#: inc/customize/settings-integrations.php:436
+#: inc/customize/settings-position.php:288
+#: inc/customize/settings-position.php:369
+#: inc/customize/settings-typography.php:215
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/customize/settings-front.php:656 inc/customize/settings-front.php:997
+msgid "Top"
+msgstr "Haut"
+
+#: inc/customize/settings-front.php:634 inc/customize/settings-front.php:975
+#: inc/customize/settings-position.php:427
+msgid "Four"
+msgstr "Quatre"
+
+#: inc/customize/settings-front.php:633 inc/customize/settings-front.php:974
+#: inc/customize/settings-front.php:1410
+#: inc/customize/settings-position.php:426
+msgid "Three"
+msgstr "Trois"
+
+#: inc/customize/settings-front.php:632 inc/customize/settings-front.php:973
+#: inc/customize/settings-front.php:1409
+#: inc/customize/settings-position.php:425
+msgid "Two"
+msgstr "Deux"
+
+#: inc/customize/settings-front.php:631 inc/customize/settings-front.php:972
+#: inc/customize/settings-front.php:1408
+#: inc/customize/settings-position.php:424
+msgid "One"
+msgstr "Un"
+
+#: inc/customize/settings-front.php:607 inc/customize/settings-front.php:948
+#: inc/customize/settings-front.php:1144 inc/customize/settings-front.php:1304
+#: inc/customize/settings-front.php:1384
+#: inc/customize/settings-integrations.php:56
+#: inc/customize/settings-integrations.php:121
+#: inc/customize/settings-integrations.php:327
+#: inc/customize/settings-position.php:319
+msgid "Layout 1"
+msgstr "Mise en page 1"
+
+#: inc/customize/settings-front.php:583
+msgid "Product Category - Layout"
+msgstr "Catégorie produit - Mise en page"
+
+#: inc/customize/settings-front.php:567
+msgid "Category Description"
+msgstr "Description de catégorie"
+
+#: inc/customize/settings-front.php:552
+msgid "Category Title"
+msgstr "Titre de catégorie"
+
+#: inc/customize/settings-front.php:514
+msgid "3rd Party Slider Shortcode"
+msgstr "Code court de diaporama externe"
+
+#: inc/customize/settings-front.php:495
+msgid ""
+"You can insert below sliders shortcode here<br/>\n"
+"\t<a target=\"_blank\" href=\"%s\">Meta Slider</a><br/>\n"
+"\t<a target=\"_blank\" href=\"%s\">Smart Slider 3</a><br/>\n"
+"\t<a target=\"_blank\" href=\"%s\">Soliloquy</a><br/>\n"
+"\tetc.</br>"
+msgstr ""
+"Vous pouvez insérer ici les codes courts des diaporamas ci dessous<br/>\n"
+"\t<a target=\"_blank\" href=\"%s\">Meta Slider</a><br/>\n"
+"\t<a target=\"_blank\" href=\"%s\">Smart Slider 3</a><br/>\n"
+"\t<a target=\"_blank\" href=\"%s\">Soliloquy</a><br/>\n"
+"\tetc.</br>"
+
+#: inc/customize/settings-front.php:461 inc/customize/settings-front.php:693
+#: inc/customize/settings-front.php:1033 inc/customize/settings-front.php:1162
+#: inc/customize/settings-front.php:1339 inc/customize/settings-front.php:1428
+#: inc/customize/settings-front.php:1709
+msgid "Background Color"
+msgstr "Couleur d’arrière plan"
+
+#: inc/customize/settings-front.php:421
+msgid "Button 2 Color"
+msgstr "Couleur du bouton 2"
+
+#: inc/customize/settings-front.php:400
+msgid "Button 1 Color"
+msgstr "Couleur du bouton 1"
+
+#: inc/customize/settings-front.php:382 inc/customize/settings-front.php:483
+msgid "Content Color"
+msgstr "Couleur de contenu"
+
+#: inc/customize/settings-front.php:342
+msgid "Button 2 URL"
+msgstr "URL du bouton 2"
+
+#: inc/customize/settings-front.php:325
+msgid "Button 2 Text"
+msgstr "Texte du bouton 2"
+
+#: inc/customize/settings-front.php:307
+msgid "Button 1 URL"
+msgstr "URL du bouton 1"
+
+#: inc/customize/settings-front.php:289
+msgid "Button 1 Text"
+msgstr "Texte du bouton 1"
+
+#: inc/customize/settings-front.php:234 inc/customize/settings-front.php:836
+#: inc/customize/settings-front.php:1499 inc/customize/settings-front.php:1563
+#: inc/customize/settings-front.php:1626
+msgid "Title"
+msgstr "Titre"
+
+#: inc/customize/settings-front.php:160
+msgid "Show Frontpage Slider on All Pages"
+msgstr "Afficher le diaporama sur toutes les pages"
+
+#: inc/customize/settings-front.php:143
+msgid "3rd Party Sliders"
+msgstr "Diaporamas externes"
+
+#: inc/customize/settings-front.php:142
+msgid "Bellini Hero Section"
+msgstr "Section Hero Bellini"
+
+#: inc/customize/settings-front.php:136
+msgid "Choose your frontpage slider type."
+msgstr "Choisissez le type de votre diaporama d’accueil."
+
+#: inc/customize/settings-front.php:135
+msgid "Slider Type"
+msgstr "Type de diaporama"
+
+#: inc/customize/settings-front.php:112
+msgid "Setting up Front Page"
+msgstr "Configurer la page d’accueil"
+
+#: inc/customize/settings-front.php:91
+msgid ""
+"To display frontpage sections, follow these steps:</br>\n"
+"\t\t<ol>\n"
+"\t\t<li>Open a new window and Go to <b>Dashboard -> Pages -> Add New</b></li>\n"
+"\t\t<li>On the right, you will find a box titled <b>Page Attributes</b></li>\n"
+"\t\t<li>Select <b>Homepage</b> from the <b>Template</b> section</li>\n"
+"\t\t<li>Now Click on <b>Publish</b></li>\n"
+"\t\t<li>Now select <b>A static page</b> from the <b>frontpage displays</b> below</li>\n"
+"\t\t<li>Select your Homepage template assigned page as <b>Front Page</b></li>\n"
+"\t\t<li>Click on <b>Save & Publish</b></li>\n"
+"\t\t</ol></br>\n"
+"\t\t<a target=\"_blank\" href=\"%s\">Front Page Demo</a>"
+msgstr ""
+"Pour afficher les sections d’accueil, suivez les étapes suivantes :</br>\n"
+"\t\t<ol>\n"
+"\t\t<li>Ouvrez une nouvelle fenêtre et allez dans <b>Tableau de bord -> Pages -> Ajouter</b></li>\n"
+"\t\t<li>Sur la droite vous trouverez une boîte nommée <b>Attributs de la page</b></li>\n"
+"\t\t<li>Sélectionnez <b>Homepage</b> dans la section <b>Modèle</b></li>\n"
+"\t\t<li>Cliquez sur <b>Publier</b></li>\n"
+"\t\t<li>Sélectionnez <b>une page statique</b> depuis <b>la page d’accueil affiche</b> ci dessous</li>\n"
+"\t\t<li>Sélectionnez votre modèle de page assignée au modèle Homepage comme <b>Page d’accueil</b></li>\n"
+"\t\t<li>Cliquez <b>Enregistrer et publier</b></li>\n"
+"\t\t</ol></br>\n"
+"\t\t<a target=\"_blank\" href=\"%s\">Démo de page d’accueil</a>"
+
+#: inc/customize/settings-front.php:72 inc/customize/settings-front.php:1673
+msgid "Text Field"
+msgstr "Champ de texte"
+
+#. #-#-#-#-#  bellini.pot (Bellini 1.37)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customize/settings-front.php:63
+msgid "Blog Posts"
+msgstr "Articles de blog"
+
+#: inc/customize/settings-front.php:52
+msgid "WooCommerce - Featured Slider"
+msgstr "WooCommerce - Diaporama mis en avant"
+
+#: inc/customize/settings-front.php:42
+msgid "WooCommerce - Products"
+msgstr "WooCommerce - Produits"
+
+#: inc/customize/settings-front.php:36
+msgid "Display WooCommerce Product Categories"
+msgstr "Affichage des catégories de produit WooCommerce"
+
+#: inc/customize/settings-front.php:31
+msgid "WooCommerce - Category"
+msgstr "WooCommerce - Catégorie"
+
+#: inc/customize/settings-content.php:787
+msgid "Show Breadcrumb"
+msgstr "Afficher le fil d'ariane"
+
+#: inc/customize/settings-content.php:784
+msgid "To display breadcrumb on your page, make sure you have one of these plugin installed: <a target=\"_blank\" href=\"%s\">Breadcrumb NavXT</a>, <a target=\"_blank\" href=\"%s\">Yoast SEO</a>"
+msgstr "Pour afficher un fil d’Ariane sur votre page, assurez d’avoir installé une de ces extensions : <a target=\"_blank\" href=\"%s\">Breadcrumb NavXT</a>, <a target=\"_blank\" href=\"%s\">Yoast SEO</a>."
+
+#: inc/customize/settings-content.php:768
+msgid "Breadcrumbs"
+msgstr "Fil d'Ariane"
+
+#: inc/customize/settings-content.php:746
+msgid "Author name, Date, Tags and Categories will be visible on single posts."
+msgstr "Le nom de l’auteur, les étiquettes et les catégoriers seront visibles dans les articles."
+
+#: inc/customize/settings-content.php:745
+msgid "Show Single Post Meta"
+msgstr "Afficher les métas de l’article"
+
+#: inc/customize/settings-content.php:728
+msgid "Single Post Components"
+msgstr "Composants des articles"
+
+#: inc/customize/settings-content.php:707
+msgid "Show Scroll To Top"
+msgstr "Afficher le retour en haut"
+
+#: inc/customize/settings-content.php:688
+msgid "Show Footer Copyright Text"
+msgstr "Afficher le texte de copyright de pied"
+
+#: inc/customize/settings-content.php:668
+msgid "Show Footer Logo"
+msgstr "Afficher le logo de pied"
+
+#: inc/customize/settings-content.php:648
+msgid "Show Footer Social Menu"
+msgstr "Afficher le menu social dans le pied"
+
+#: inc/customize/settings-content.php:631
+msgid "Footer Components"
+msgstr "Composants du pied"
+
+#: inc/customize/settings-content.php:609
+msgid "Show Frontpage Text Section"
+msgstr "Afficher la section de texte d’accueil"
+
+#: inc/customize/settings-content.php:589
+msgid "Show Blog Posts"
+msgstr "Afficher les articles de blog"
+
+#: inc/customize/settings-content.php:569
+msgid "Show WooCommerce Products Featured"
+msgstr "Afficher les produits WooCommerce mis en avant"
+
+#: inc/customize/settings-content.php:549
+msgid "Show WooCommerce Products"
+msgstr "Afficher les produits WooCommerce"
+
+#: inc/customize/settings-content.php:528
+msgid "Show WooCommerce Category"
+msgstr "Afficher la catégorie Woocommerce"
+
+#: inc/customize/settings-content.php:508
+msgid "Show Feature Blocks"
+msgstr "Afficher les blocs de fonctionnalités"
+
+#: inc/customize/settings-content.php:488
+msgid "Show Frontpage Slider"
+msgstr "Afficher le diaporama d’accueil"
+
+#: inc/customize/settings-content.php:471
+msgid "Frontpage Sections"
+msgstr "Sections de l’accueil"
+
+#: inc/customize/settings-content.php:446
+msgid "Custom CSS"
+msgstr "CSS personnalisée"
+
+#: inc/customize/settings-content.php:224
+#: inc/customize/settings-content.php:241
+#: inc/customize/settings-content.php:261
+#: inc/customize/settings-content.php:278
+#: inc/customize/settings-content.php:298
+#: inc/customize/settings-content.php:315
+#: inc/customize/settings-content.php:335
+#: inc/customize/settings-content.php:352
+#: inc/customize/settings-content.php:372
+#: inc/customize/settings-content.php:389
+#: inc/customize/settings-content.php:409
+#: inc/customize/settings-content.php:426
+msgid "www.facebook.com"
+msgstr "www.facebook.com"
+
+#: inc/customize/settings-content.php:202
+msgid "This social menu will appear in header and footer section."
+msgstr "Ce menu social sera affiché dans la section d’en-tête et de pied."
+
+#: inc/customize/settings-content.php:201
+msgid "Set Social Menu"
+msgstr "Définir le menu social"
+
+#: inc/customize/settings-content.php:181
+msgid "example: Read More"
+msgstr "exemple : Lire la suite"
+
+#: inc/customize/settings-content.php:180
+msgid "Post Button Label"
+msgstr "Label de bouton d’article"
+
+#: inc/customize/settings-content.php:166
+msgid "Leave it empty if you do not want to display anything beside hamburger icon"
+msgstr "Laissez ceci vide si vous ne voulez rien afficher à côté de l’icône Hamburger"
+
+#: inc/customize/settings-content.php:165
+msgid "Hamburger Menu Text"
+msgstr "Icône de menu Hamburger"
+
+#: inc/customize/settings-content.php:141
+msgid "Type your own text to replace default footer text."
+msgstr "Saisissez votre texte pour remplacer le texte de pied par défaut."
+
+#: inc/customize/settings-content.php:140
+msgid "Footer Copyright Text"
+msgstr "Texte de copyright du pied"
+
+#: inc/customize/settings-content.php:119
+msgid "Default Post Featured Image"
+msgstr "Image mise en avant par défaut"
+
+#: inc/customize/settings-content.php:104
+msgid "Featured Image"
+msgstr "Image en avant"
+
+#: inc/customize/settings-content.php:85
+msgid "Header Image"
+msgstr "Image d’en-tête"
+
+#: inc/customize/settings-content.php:66
+msgid "Website Background Image"
+msgstr "Image d’arrière plan de site"
+
+#: inc/customize/settings-content.php:45
+msgid "Custom Code"
+msgstr "Code personnalisé"
+
+#: inc/customize/settings-content.php:36 inc/customizer.php:82
+msgid "Show / Hide"
+msgstr "Afficher / masquer"
+
+#: inc/customize/settings-content.php:27
+msgid "Social Accounts"
+msgstr "Comptes sociaux"
+
+#: inc/customize/settings-content.php:18
+msgid "Change Text Label"
+msgstr "Changer le label de texte"
+
+#: inc/customize/settings-content.php:9
+msgid "Set Default Image"
+msgstr "Définir une image par défaut"
+
+#: inc/customize/settings-color.php:339
+msgid "Link Hover"
+msgstr "Lien au survol"
+
+#: inc/customize/settings-color.php:319
+msgid "Link Text"
+msgstr "Texte de lien"
+
+#: inc/customize/settings-color.php:279 inc/customize/settings-front.php:896
+#: inc/customize/settings-front.php:1250
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: inc/customize/settings-color.php:259
+msgid "Button Color"
+msgstr "Couleur du bouton"
+
+#: inc/customize/settings-color.php:220
+msgid "Applies to Meta Color: Post Meta, Post Category, Comment Author, Breadcrumbs etx."
+msgstr "Appliqué à la couleur des méta : Méta article, catégorie, auteur de commentaire, fil d’Ariane, etc"
+
+#: inc/customize/settings-color.php:219
+msgid "Meta Colors"
+msgstr "Couleurs méta"
+
+#: inc/customize/settings-color.php:199
+msgid "Applies to header sub menu, Scroll To Top. "
+msgstr "Appliqué au sous-menu d’en-tête, retour en haut."
+
+#: inc/customize/settings-color.php:198
+msgid "Other Colors"
+msgstr "Autres couleurs"
+
+#: inc/customize/settings-color.php:179
+msgid "Additional Color Options"
+msgstr "Options additionnelles de couleur"
+
+#: inc/customize/settings-color.php:162
+msgid "Menu - Text Color"
+msgstr "Menu - Couleur de texte"
+
+#: inc/customize/settings-color.php:147
+msgid "Logo - Text Color"
+msgstr "Logo - Couleur de texte"
+
+#: inc/customize/settings-color.php:138
+msgid "Applies to all the titles"
+msgstr "Appliquer à tous les titres"
+
+#: inc/customize/settings-color.php:137
+msgid "Title - Text Color"
+msgstr "Titre - Couleur de texte"
+
+#: inc/customize/settings-color.php:118
+msgid "Applies to site wide text including input & textarea field text"
+msgstr "Appliqué au texte du site entier, incluant les entrées et les zones de texte"
+
+#: inc/customize/settings-color.php:117
+msgid "Body - Text Color"
+msgstr "Corps - Couleur de texte"
+
+#: inc/customize/settings-color.php:28
+msgid "Color - Buttons & Links"
+msgstr "Couleur -  Boutons et liens"
+
+#: inc/customize/settings-color.php:18
+msgid "Color - Texts"
+msgstr "Couleur - Textes"
+
+#: inc/customize/settings-color.php:9
+msgid "Color - Background"
+msgstr "Couleur - Arrière plan"
+
+#: inc/customize/settings-bellini-pro.php:89
+#: inc/customize/settings-bellini-pro.php:109
+#: inc/customize/settings-bellini-pro.php:128
+#: inc/customize/settings-bellini-pro.php:149
+#: inc/customize/settings-bellini-pro.php:170
+#: inc/customize/settings-bellini-pro.php:190
+#: inc/customize/settings-bellini-pro.php:210
+#: inc/customize/settings-bellini-pro.php:229
+#: inc/customize/settings-bellini-pro.php:248
+#: inc/customize/settings-bellini-pro.php:267
+#: inc/customize/settings-bellini-pro.php:286
+msgid "You are missing out on"
+msgstr "Voici ce que vous manquez"
+
+#: inc/customize/settings-bellini-pro.php:17
+msgid "3 More Shop page & 3 More Single Product Layouts."
+msgstr "3 mises en page supplémentaires de page boutique et de produits"
+
+#: inc/customize/settings-bellini-pro.php:16
+msgid "Google Analytics, Hotjar, Facebook Conversion Pixel, Heap Analytics, SumoMe and many more integrations."
+msgstr "Google Analytics, Hotjar, Facebook Conversion Pixel, Heap Analytics, SumoMe et beaucoup d’autres intégrations."
+
+#: inc/customize/settings-bellini-pro.php:15
+msgid "3 more footer layouts."
+msgstr "3 mise en page de pied en plus"
+
+#: inc/customize/settings-bellini-pro.php:14
+msgid "3 more Blog posts & 3 more single post layouts."
+msgstr "3 mises en page supplémentaires de page de blog et d’articles."
+
+#: inc/customize/settings-bellini-pro.php:13
+msgid "6 more header section layout, Fixed Header, Text field option in Other header Items."
+msgstr "6 mises en page supplémentaires de section, en-tête fixe, option de champ de texte dans les autres éléments d’en-tête."
+
+#: inc/customize/settings-bellini-pro.php:12
+msgid "3 more blog posts layouts, display post by category & section background image."
+msgstr "3 mises en page d’articles, affichage des articles par catégorie et image d’arrière plan de section."
+
+#: inc/customize/settings-bellini-pro.php:11
+msgid "2 more featured product layouts & section background image."
+msgstr "2 mises en page supplémentaires de produits mis en avant et image d’arrière plan de section."
+
+#: inc/customize/settings-bellini-pro.php:10
+msgid "3 more product layouts & section background image."
+msgstr "3 mises en page supplémentaires de produits et image d’arrière plan de section."
+
+#: inc/customize/settings-bellini-pro.php:9
+msgid "3 more category layouts & section background image."
+msgstr "3 mises en page supplémentaires de catégorie et image d’arrière plan de section."
+
+#: inc/customize/settings-bellini-pro.php:8
+msgid "3 more block layouts & ability to set block section background image."
+msgstr "3 mises en page supplémentaires de bloc et possibilité de définir une image d’arrière plan de section."
+
+#: inc/customize/bellini-customizer-choices.php:86
+msgid "We Chat"
+msgstr "We Chat"
+
+#: inc/customize/bellini-customizer-choices.php:85
+msgid "Weibo V2"
+msgstr "Weibo V2"
+
+#: inc/customize/bellini-customizer-choices.php:74
+msgid "Twitter V2"
+msgstr "Twitter V2"
+
+#: inc/customize/bellini-customizer-choices.php:73
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customize/bellini-customizer-choices.php:72
+msgid "tumblr V2"
+msgstr "tumblr V2"
+
+#: inc/customize/bellini-customizer-choices.php:71
+msgid "tumblr"
+msgstr "tumblr"
+
+#: inc/customize/bellini-customizer-choices.php:84
+msgid "Weibo"
+msgstr "Weibo"
+
+#: inc/customize/bellini-customizer-choices.php:69
+msgid "Snapchat V3"
+msgstr "Snapchat V3"
+
+#: inc/customize/bellini-customizer-choices.php:68
+msgid "Snapchat V2"
+msgstr "Snapchat V2"
+
+#: inc/customize/bellini-customizer-choices.php:67
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: inc/customize/bellini-customizer-choices.php:61
+msgid "Reddit Square"
+msgstr "Reddit Square"
+
+#: inc/customize/bellini-customizer-choices.php:60
+msgid "Reddit V2"
+msgstr "Reddit V2"
+
+#: inc/customize/bellini-customizer-choices.php:59
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customize/bellini-customizer-choices.php:92
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customize/bellini-customizer-choices.php:91
+msgid "YouTube Square"
+msgstr "YouTube Square"
+
+#: inc/customize/bellini-customizer-choices.php:90
+msgid "YouTube Play"
+msgstr "YouTube Play"
+
+#: inc/customize/bellini-customizer-choices.php:80
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customize/bellini-customizer-choices.php:89
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/customize/bellini-customizer-choices.php:88
+msgid "Xing Square"
+msgstr "Xing Square"
+
+#: inc/customize/bellini-customizer-choices.php:87
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customize/bellini-customizer-choices.php:83
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customize/bellini-customizer-choices.php:82
+msgid "Windows"
+msgstr "Windows"
+
+#: inc/customize/bellini-customizer-choices.php:79
+msgid "Vine"
+msgstr "Vine"
+
+#: inc/customize/bellini-customizer-choices.php:78
+msgid "Viadeo Square"
+msgstr "Viadeo Square"
+
+#: inc/customize/bellini-customizer-choices.php:77
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: inc/customize/bellini-customizer-choices.php:76
+msgid "Twitch"
+msgstr "Twitch"
+
+#: inc/customize/bellini-customizer-choices.php:75
+msgid "TripAdvisor"
+msgstr "TripAdvisor"
+
+#: inc/customize/bellini-customizer-choices.php:66
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/customize/bellini-customizer-choices.php:65
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/customize/bellini-customizer-choices.php:64
+msgid "SlideShare"
+msgstr "SlideShare"
+
+#: inc/customize/bellini-customizer-choices.php:63
+msgid "Slack"
+msgstr "Slack"
+
+#: inc/customize/bellini-customizer-choices.php:62
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customize/bellini-customizer-choices.php:81
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: inc/customize/bellini-customizer-choices.php:41
+msgid "GitHub"
+msgstr "Github"
+
+#: inc/customize/bellini-customizer-choices.php:40
+msgid "GitHub V2"
+msgstr "GitHub V2"
+
+#: inc/customize/bellini-customizer-choices.php:39
+msgid "GitHub Square"
+msgstr "GitHub Square"
+
+#: inc/customize/bellini-customizer-choices.php:38
+msgid "Google"
+msgstr "Google"
+
+#: inc/customize/bellini-customizer-choices.php:37
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/customize/bellini-customizer-choices.php:36
+msgid "Google+ Square"
+msgstr "Google+ Square"
+
+#: inc/customize/bellini-customizer-choices.php:43
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: inc/customize/bellini-customizer-choices.php:42
+msgid "Houzz"
+msgstr "Houzz"
+
+#: inc/customize/bellini-customizer-choices.php:44
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customize/bellini-customizer-choices.php:46
+msgid "Joomla"
+msgstr "Joomla"
+
+#: inc/customize/bellini-customizer-choices.php:45
+msgid "JSFiddle"
+msgstr "JSFiddle"
+
+#: inc/customize/bellini-customizer-choices.php:50
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: inc/customize/bellini-customizer-choices.php:49
+msgid "Last.fm Square"
+msgstr "Last.fm Square"
+
+#: inc/customize/bellini-customizer-choices.php:48
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customize/bellini-customizer-choices.php:47
+msgid "LinkedIn Square"
+msgstr "LinkedIn Square"
+
+#: inc/customize/bellini-customizer-choices.php:52
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customize/bellini-customizer-choices.php:56
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customize/bellini-customizer-choices.php:55
+msgid "Pinterest V2"
+msgstr "Pinterest V2"
+
+#: inc/customize/bellini-customizer-choices.php:54
+msgid "Pinterest Square"
+msgstr "Pinterest Square"
+
+#: inc/customize/bellini-customizer-choices.php:53
+msgid "Product Hunt"
+msgstr "Product Hunt"
+
+#: inc/customize/bellini-customizer-choices.php:35
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: inc/customize/bellini-customizer-choices.php:34
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customize/bellini-customizer-choices.php:33
+msgid "Facebook Square"
+msgstr "Facebook Square"
+
+#: inc/customize/bellini-customizer-choices.php:32
+msgid "Facebook Official"
+msgstr "Facebook Officiel"
+
+#: inc/customize/bellini-customizer-choices.php:31
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customize/bellini-customizer-choices.php:29
+msgid "Email V3"
+msgstr "Email V3"
+
+#: inc/customize/bellini-customizer-choices.php:28
+msgid "Email V2"
+msgstr "Email V2"
+
+#: inc/customize/bellini-customizer-choices.php:27
+msgid "Email"
+msgstr "Email"
+
+#: inc/customize/bellini-customizer-choices.php:26
+msgid "Drupal"
+msgstr "Drupal"
+
+#: inc/customize/bellini-customizer-choices.php:25
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: inc/customize/bellini-customizer-choices.php:24
+msgid "Dribbble"
+msgstr "Dribble"
+
+#: inc/customize/bellini-customizer-choices.php:23
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/customize/bellini-customizer-choices.php:22
+msgid "DeviantArt"
+msgstr "DeviantArt"
+
+#: inc/customize/bellini-customizer-choices.php:21
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/customize/bellini-customizer-choices.php:20
+msgid "Codepen"
+msgstr "Codepen"
+
+#: inc/customize/bellini-customizer-choices.php:19
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: inc/customize/bellini-customizer-choices.php:18
+msgid "Bitbucket Square"
+msgstr "Bitbucket Square"
+
+#: inc/customize/bellini-customizer-choices.php:17
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: inc/customize/bellini-customizer-choices.php:16
+msgid "Behance Square"
+msgstr "Behance Square"
+
+#: inc/customize/bellini-customizer-choices.php:15
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/customize/bellini-customizer-choices.php:14
+msgid "Apple"
+msgstr "Apple"
+
+#: inc/customize/bellini-customizer-choices.php:13
+msgid "AngelList"
+msgstr "AngelList"
+
+#: inc/customize/bellini-customizer-choices.php:12
+msgid "Android"
+msgstr "Android"
+
+#: inc/customize/bellini-customizer-choices.php:11
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/customize/bellini-customizer-choices.php:10
+msgid "500PX"
+msgstr "500PX"
+
+#: inc/customize/bellini-customizer-choices.php:9
+msgid "None"
+msgstr "Aucun"
+
+#: inc/comments.php:52
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/comments.php:45
+msgid "Reply"
+msgstr "Répondre"
+
+#: header.php:21 inc/structure/bellini-header.php:68
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:105
+msgid "These widgets will be only visible in WooCommerce Pages"
+msgstr "Ces widgets ne seront visibles que dans les pages WooCommerce"
+
+#: functions.php:103
+msgid "WooCommerce Widgets"
+msgstr "Widgets WooCommerce"
+
+#: functions.php:95
+msgid "You can change the Footer Widget Column count from Customize - Layout - Layout Footer"
+msgstr "Vous pouvez changer le nombre de colonnes de widget de pied depuis Personnaliser - Mise en page - Mise en page de pied"
+
+#: functions.php:93
+msgid "Widget Area - Footer"
+msgstr "Zone de widget - Pied"
+
+#: functions.php:85
+msgid "These widgets will be only visible in Blog Page Template, Archive pages"
+msgstr "Ces widgets ne seront visibles que dans le modèle de page Blog et les pages d’archives."
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:39 comments.php:56
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:38 comments.php:55
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:36 comments.php:53
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "Comment One"
+msgid_plural "Comments %1$s"
+msgstr[0] "Un commentaire"
+msgstr[1] "%1$s commentaires"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Contenu Introuvable. L'outil de techerche ou les liens ci-dessous vous remettront peut-être sur la voie."
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page n'existe pas !"
+
+#. Theme URI of the plugin/theme
+msgid "http://atlantisthemes.com/"
+msgstr "http://atlantisthemes.com/"
+
+#. Author of the plugin/theme
+msgid "Pangolin"
+msgstr "Pangolin"
