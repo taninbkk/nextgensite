@@ -15,6 +15,6 @@ wp-settings.php
 wp-signup.php
 wp-trackback.php
 xmlrpc.php
-wp-config.php
 wp-config2.php
+wp-config3.php
 nginx-wordpress.conf
