@@ -2,6 +2,7 @@
 /wp-admin/
 /wp-includes/
 .htaccess
+wp-config.php
 index.php
 wp-activate.php
 wp-blog-header.php
@@ -15,7 +16,6 @@ wp-settings.php
 wp-signup.php
 wp-trackback.php
 xmlrpc.php
-wp-config.php
 wp-config1.php
 wp-config2.php
 wp-config3.php
